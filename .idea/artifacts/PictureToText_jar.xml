@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PictureToText:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PictureToText_jar</output-path>
+    <root id="archive" name="PictureToText.jar">
+      <element id="module-output" name="PictureToText" />
+    </root>
+  </artifact>
+</component>
